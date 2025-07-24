@@ -1,17 +1,17 @@
 # cold-email-gen-langchain-groq-chromaDB-vectorDB
 
 ```
-experimentation and testing space for AI, langchain, vectorDB etc.
+Experimentation and testing space for AI, LangChain, VectorDBs, and Groq.
 ```
 
-## Install jupyter notebook
+## Install Jupyter Notebook
 
 ```
 python3 -m venv ai-playground
 source ai-playground/bin/activate
 ```
 
-# Required installations
+## Required Installations
 
 ```
 pip install langchain
@@ -21,7 +21,7 @@ pip install -qU langchain_community beautifulsoup4
 pip install streamlit
 ```
 
-# Imp links
+## Important Links
 
 ```
 https://python.langchain.com/docs/integrations/chat/groq/
@@ -29,7 +29,7 @@ https://docs.trychroma.com/docs/overview/getting-started
 https://console.groq.com/docs/models
 ```
 
-# command to run app
+## Run the App
 
 ```
 streamlit run app.py
